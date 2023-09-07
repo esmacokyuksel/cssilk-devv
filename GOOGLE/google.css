@@ -1,0 +1,26 @@
+.container{
+background-color: blueviolet;  
+column-span: 3px;  
+
+}
+
+.tr1{
+    background-color: blueviolet;
+
+   
+    
+}
+.content-block {
+    text-align: center;
+    margin-right: 1px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1em;
+    
+    
+}
+.center{
+    float: right;
+
+    width: 300px;
+
+   }
